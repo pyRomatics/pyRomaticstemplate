@@ -3,7 +3,7 @@ template:
 
 authors:
   Garrett Shipley:
-    href: https://garth74.github.io
+    href: https://garth74.github.io/
 
 navbar:
   structure:
@@ -35,6 +35,4 @@ navbar:
       - text: sets
         href: 
       - text: strs
-        href: 
-      - text: easystats
-        href: 
+        href: https://pyromatics/strs/

@@ -1,3 +1,6 @@
+template:
+  bootswatch: flatly
+
 authors:
   Garrett Shipley:
     href: https://garth74.github.io

@@ -31,8 +31,8 @@ navbar:
       aria-label: pyRomatics
       menu:
       - text: re
-        href: 
+        href: https://pyromatics.github.io/re/
       - text: sets
-        href: 
+        href: https://pyromatics.github.io/sets/
       - text: strs
         href: https://pyromatics.github.io/strs/

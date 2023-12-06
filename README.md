@@ -1,2 +1,3 @@
-# pyRomaticstemplate
-packagedown template for repository websites
+# pythonicrtemplate
+
+pkgdown template for repository websites

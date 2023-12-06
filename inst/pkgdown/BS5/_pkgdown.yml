@@ -5,10 +5,10 @@ authors:
 navbar:
   structure:
     left:  [reference, articles, news]
-    right: [github]
+    right: [pythonicr, github]
   components:
     reference:
-      icon: bi bi-book
+      icon: fa-solid fa-book
       text: Reference
       href: reference/index.html
       aria-label: Reference
@@ -22,7 +22,7 @@ navbar:
       text: News
       href: news/index.html
       aria-label: News
-    pyRomatics:
+    pythonicr:
       icon: fab fa-r-project
       text: pythonicr
       aria-label: pythonicr

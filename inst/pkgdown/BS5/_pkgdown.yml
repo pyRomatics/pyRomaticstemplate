@@ -1,6 +1,3 @@
-template:
-  bootswatch: flatly
-
 authors:
   Garrett Shipley:
     href: https://garth74.github.io/
@@ -27,12 +24,12 @@ navbar:
       aria-label: News
     pyRomatics:
       icon: fab fa-r-project
-      text: pyRomatics
-      aria-label: pyRomatics
+      text: pythonicr
+      aria-label: pythonicr
       menu:
       - text: re
-        href: https://pyromatics.github.io/re/
+        href: https://pythonicr.github.io/re/
       - text: sets
-        href: https://pyromatics.github.io/sets/
+        href: https://pythonicr.github.io/sets/
       - text: strs
-        href: https://pyromatics.github.io/strs/
+        href: https://pythonicr.github.io/strs/

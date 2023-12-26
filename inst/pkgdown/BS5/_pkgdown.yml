@@ -27,6 +27,8 @@ navbar:
       text: pythonicr
       aria-label: pythonicr
       menu:
+      - text: pathlib
+        href: https://pythonicr.github.io/pathlib/
       - text: re
         href: https://pythonicr.github.io/re/
       - text: sets
